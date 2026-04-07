@@ -926,7 +926,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-vfYDyJ17xj .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.8rem);
+    max-height: calc(98.5vh - 5.5rem);
   }
 }
 .cid-vfYDyJ17xj .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1152,9 +1152,6 @@ a {
     left: -1rem;
   }
 }
-.cid-vfYGMV9SL6 {
-  background-image: url("../../../assets/images/mercedes-image.jpeg");
-}
 .cid-vfYGMV9SL6 .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1166,6 +1163,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-vfYGMV9SL6 .mbr-text,
 .cid-vfYGMV9SL6 .mbr-section-btn {
@@ -1275,6 +1273,28 @@ a {
   margin-bottom: 0;
 }
 .cid-vfZrp5HSOC .text2 {
+  color: #ffffff;
+}
+.cid-vg54ovJaJj {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-vg54ovJaJj .video-wrapper iframe {
+  width: 100%;
+}
+.cid-vg54ovJaJj .mbr-section-title,
+.cid-vg54ovJaJj .mbr-section-subtitle,
+.cid-vg54ovJaJj .mbr-text {
+  text-align: center;
+}
+.cid-vg54ovJaJj .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-vg54ovJaJj .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vg54ovJaJj .mbr-text {
   color: #ffffff;
 }
 .cid-vfZvIfqDux {
@@ -1523,7 +1543,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-vfYDyJ17xj .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.8rem);
+    max-height: calc(98.5vh - 5.5rem);
   }
 }
 .cid-vfYDyJ17xj .navbar.collapsed .dropdown-menu .dropdown-submenu {
