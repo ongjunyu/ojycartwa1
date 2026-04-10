@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2026-04-06 10:56-clone",
+    "name": "Ass1",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -281,7 +281,17 @@
     ],
     "uniqCompNum": 32,
     "versionPublish": "6.1.12",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "hr8smmskzc",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
